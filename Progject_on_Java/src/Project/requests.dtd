@@ -1,0 +1,4 @@
+<!ELEMENT requests (request+)>
+<!ELEMENT request (command, data)>
+<!ELEMENT command (#PCDATA)>
+<!ELEMENT data (#PCDATA)>
