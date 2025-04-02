@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE requests SYSTEM "requests.dtd">
+<requests>
+    <request>
+        <command>setName</command>
+        <data>ClientName</data>
+    </request>
+    <request>
+        <command>message</command>
+        <data>Hello, world!</data>
+    </request>
+</requests>
